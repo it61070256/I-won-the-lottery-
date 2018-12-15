@@ -1,15 +1,14 @@
 """
-Anawaralo
-
+Win the lotterys
 """
 import pandas as pd
 import matplotlib.pyplot as plt
 def main():
-    """Print accident graph (Pie Charts)"""
+    """Print First Three lottery graph (Beta)"""
     test([])
 
 def test(lis_y):
-    """Plot a Bar Graph of that only injured happened"""
+    """Plot a Bar Graph of First Three lottery"""
     lis_x = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     data = pd.read_csv('Book1.csv')
     group = data.groupby(['Years'])
