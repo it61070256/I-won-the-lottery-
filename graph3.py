@@ -19,7 +19,9 @@ def test(lis_y):
     y2017 = group.get_group(2017)
     y2018 = group.get_group(2018)
     First_pos = count_1(y2013, y2014, y2015, y2016, y2017, y2018)
-    plt.bar(lis_x, First_pos)
+    plt.bar(lis_x, First_pos, color="lightpink", edgecolor='black')
+    plt.title("FirstThree\nDigit", fontsize=16,)
+    plt.ylim(0,60)
     plt.show()
 
 def count_1(y2013, y2014, y2015, y2016, y2017, y2018):
