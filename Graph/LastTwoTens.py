@@ -4,10 +4,10 @@ Win the lotterys
 import pandas as pd
 import matplotlib.pyplot as plt
 def main():
-    """Print Last Two lottery graph (Beta)"""
-    test([])
+    """Print Last Two lottery graph (Digit)"""
+    bargraph()
 
-def test(lis_y):
+def bargraph():
     """Plot a Bar Graph of Last Two lottery"""
     lis_x = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     data = pd.read_csv('Book1.csv')
