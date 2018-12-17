@@ -19,9 +19,14 @@ def test(lis_y):
     y2017 = group.get_group(2017)
     y2018 = group.get_group(2018)
     First_pos = count_1(y2013, y2014, y2015, y2016, y2017, y2018)
-    plt.bar(lis_x, First_pos, color="lightpink", edgecolor='black')
-    plt.title("LastThree\nTheTens", fontsize=16,)
+    plt.bar(lis_x, First_pos, color="slateblue", edgecolor='black', capsize=7, label='number')
+    plt.title("เลขท้าย3ตัว\nหลักสิบ", fontname='JasmineUPC', fontsize=25,)
+    plt.xlabel("หมายเลขที่ออก", fontname='JasmineUPC', fontsize='20', color="dodgerblue")
+    plt.ylabel("จำนวนครั้งที่ออก", fontname='JasmineUPC', fontsize='20', color="darkorange")
+    plt.xticks(color='dimgray')
+    plt.yticks(color='dimgray')
     plt.ylim(0,60)
+    plt.legend()
     plt.show()
 
 def count_1(y2013, y2014, y2015, y2016, y2017, y2018):
