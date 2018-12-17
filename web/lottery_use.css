@@ -1,0 +1,223 @@
+#head {
+    color: gold ;
+    text-shadow: 10px 10px firebrick;
+    font-size: 150px ;
+
+}
+#had {
+    border: 50px grey;
+    background-color: gray;
+
+    }
+
+#sl {
+    width:50%;
+    color: firebrick;
+}
+
+#sliding {
+    font-size: 25px ;
+}
+
+#table {
+    width:75%;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+}
+
+#wh {
+    background-color: gold;
+    color: firebrick;
+}
+
+#ga {
+    background-color: firebrick;
+    color: white;
+
+}
+
+#tik {
+    width:75%
+}
+
+
+/* body */
+
+div.pic img{
+  height: 400px;
+  align-items: center;
+}
+
+
+#topic {
+      background-color: grey;
+      color: gold;
+      text-shadow: 2px 2px white;
+}
+
+#tp {
+    background-color: lightgrey;
+    padding: 50px;
+}
+
+#tp12 {
+    background-color: dimgrey;
+}
+
+#yg {
+     background-color: gold;
+}
+
+#gy {
+     background-color: grey;
+
+}
+
+
+#topic2 {
+      background-color: firebrick;
+      color: gold;
+}
+
+#tp2 {
+    background-color: hsla(0, 100%, 30%, 0.3);
+}
+
+
+#tp22 {
+    background-color: indianred;
+}
+
+#rad {
+    background-color: firebrick;
+}
+
+
+#topic3 {
+      background-color: gold;
+      color: firebrick;
+}
+
+#tp3 {
+    background-color: #FFFF66;
+}
+
+
+#tp33 {
+    background-color: goldenrod;
+    
+}
+
+div.team {
+    background-color: gold;
+}
+
+#team{
+background-color: gold;
+}
+
+#taa {
+    color: firebrick;
+    text-shadow: 3px 3px grey;
+}
+
+#name {
+    background-color: white;
+}
+
+
+
+#two {
+      background-color: darkgray;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#two2 {
+      background-color: indianred;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#two3 {
+      background-color: #FFFF00;
+      color: firebrick;
+      text-shadow: 3px 3px gold;
+}
+
+#topicred {
+      background-color: firebrick;
+      color: gold;
+      text-shadow: 2px 2px white;
+}
+
+
+#tp22 {
+    background-color: #A52A2A;
+    padding: 50px;
+}
+
+
+
+
+
+#topicyel {
+      background-color: #FFCC00;
+      text-shadow: 2px 2px white;
+      color: firebrick;
+}
+
+
+
+#name1 {
+    color: gray;
+     background-color: lightgrey ;
+}
+
+
+#Synopsis {
+    background-color: white;
+}
+
+
+
+/*รูปแบบตัวอักษร*/
+
+
+
+/* ขนาดตัวอักษร*/
+
+h1 {
+
+    text-shadow: 10px 10px grey;
+    color: floralwhite;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+
+}
+h4 {
+    font-size: 20px;
+    color: firebrick;
+    text-shadow: 3px 3px white;
+}
+
+
+h5 {
+    font-size: 15px;
+}
+
+
+
+
+p {
+    color: white;
+}
