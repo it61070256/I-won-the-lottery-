@@ -1,0 +1,213 @@
+#head {
+    color: gold ;
+    text-shadow: 10px 10px firebrick;
+    font-size: 150px ;
+
+}
+#had {
+    border: 50px grey;
+    background-color: gray;
+
+    }
+
+#sl {
+    width:50%;
+    color: firebrick;
+}
+
+#sliding {
+    font-size: 25px ;
+}
+
+#table {
+    width:75%;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+}
+
+#wh {
+    background-color: gold;
+    color: firebrick;
+}
+
+#ga {
+    background-color: firebrick;
+    color: white;
+
+}
+
+#tik {
+    width:75%
+}
+
+
+/* body */
+
+div.pic img{
+  height: 400px;
+  width: auto;
+  align-items: center;
+}
+
+
+#topic {
+      background-color: grey;
+      color: gold;
+      text-shadow: 2px 2px white;
+}
+
+#tp {
+    background-color: lightgrey;
+    padding: 50px;
+}
+
+#tp12 {
+    background-color: dimgrey;
+    padding: 50px;
+}
+
+#yg {
+     background-color: gold;
+}
+
+#gy {
+     background-color: grey;
+
+}
+
+
+#topic2 {
+      background-color: firebrick;
+      color: gold;
+}
+
+#tp2 {
+    background-color: hsla(0, 100%, 30%, 0.3);
+    padding: 50px;
+}
+
+
+#tp22 {
+    background-color: indianred;
+    padding: 50px;
+}
+
+#rad {
+    background-color: firebrick;
+}
+
+
+#topic3 {
+      background-color: gold;
+      color: firebrick;
+}
+
+#tp3 {
+    background-color: rgba(255,255,0,0.3);
+    padding: 50px;
+}
+
+
+#tp33 {
+    background-color: goldenrod;
+    padding: 50px;
+}
+
+div.team {
+    
+}
+
+#taa {
+    color: firebrick;
+    text-shadow: 3px 3px grey;
+}
+
+
+
+
+#two {
+      background-color: darkgray;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#two2 {
+      background-color: indianred;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+
+
+#topicred {
+      background-color: firebrick;
+      color: gold;
+      text-shadow: 2px 2px white;
+}
+
+
+#tp22 {
+    background-color: #A52A2A;
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*รูปแบบตัวอักษร*/
+
+
+
+/* ขนาดตัวอักษร*/
+
+h1 {
+
+    text-shadow: 10px 10px grey;
+    color: floralwhite;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+}
+h4 {
+    font-size: 20px;
+    color: firebrick;
+    text-shadow: 3px 3px grey;
+}
+
+
+h5 {
+    font-size: 15px;
+}
+
+
+
+
+p {
+    color: white;
+}
