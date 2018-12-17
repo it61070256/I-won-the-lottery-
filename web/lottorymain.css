@@ -56,7 +56,7 @@ div.pic img{
 #topic {
       background-color: grey;
       color: gold;
-      text-shadow: 2px 2px grey;
+      text-shadow: 2px 2px white;
 }
 
 #tp {
@@ -128,8 +128,11 @@ div.team {
 
 
 
-
-
+#two {
+      background-color: darkgray;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
 
 
 
