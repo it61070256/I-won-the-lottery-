@@ -10,6 +10,6 @@
 | <a><img src="img/pe2.jpg" width="200px"></a> | 61070256    | นายอนาวิล บางเทศธรรม | [Anawin](https://github.com/it61070256) |
 | <a><img src="img/pe1.jpg" width="200px"></a> | 61070270    | นางสาวอารยา ทองเล็ก | [Arayaoil](https://github.com/ArayaThongleg) |
  ## อาจารย์ที่ปรึกษา
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- รศ.ดร. โชติพัชร์ ภรณวลัย
+ - รศ.ดร. โชติพัชร์ ภรณวลัย
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รายงานนี้เป็นส่วนหนึ่งของวิชา PROBLEM SOLVING IN INFORMATION TECHNOLOGY (06016314) 
  <br>เทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
