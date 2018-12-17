@@ -5,8 +5,8 @@
  ## สมาชิก
  | | รหัสนักศึกษา        | ชื่อ-นามสกุล | Github |
 |:-:| :-------------: |:----------:|:--------:|
-| <a><img src="pe4.jpg" width="200px"></a> | 61070098    | นายนรวิชญ์ มานะพัฒนานุกุล | [norrawit](https://github.com/norrawit) |
-| <a><img src="img1.jpg" width="200px"></a> | 61070256    | นายอนาวิล บางเทศธรรม | [Anawin](https://github.com/it61070256) |
-| <a><img src="pe1.jpg.jpg" width="200px"></a> | 61070270    | นางสาวอารยา ทองเล็ก | [Arayaoil](https://github.com/ArayaThongleg) |
+| <a><img src="pe1.jpg" width="200px"></a> | 61070098    | นายนรวิชญ์ มานะพัฒนานุกุล | [norrawit](https://github.com/norrawit) |
+| <a><img src="pe2.jpg" width="200px"></a> | 61070256    | นายอนาวิล บางเทศธรรม | [Anawin](https://github.com/it61070256) |
+| <a><img src="pe3.jpg.jpg" width="200px"></a> | 61070270    | นางสาวอารยา ทองเล็ก | [Arayaoil](https://github.com/ArayaThongleg) |
  ## อาจารย์ที่ปรึกษา
   รศ.ดร. โชติพัชร์ ภรณวลัย 
