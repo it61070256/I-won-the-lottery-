@@ -1,0 +1,115 @@
+#head {
+    color: gold ;
+    text-shadow: 10px 10px firebrick;
+    font-size: 150px ;
+
+}
+#had {
+    border: 50px grey;
+    background-color: gray;
+}
+
+#sl {
+    width:50%;
+    color: firebrick;
+}
+
+#sliding {
+    font-size: 25px ;
+}
+
+#table {
+    width:75%;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+}
+
+#wh {
+    background-color: gold;
+    color: firebrick;
+}
+
+#ga {
+    background-color: firebrick;
+    color: white;
+
+}
+
+#tik {
+    width:75%
+}
+
+
+/* body */
+
+div.pic img{
+  height: 400px;
+  width: auto;
+  align-items: center;
+}
+
+
+#topic {
+      background-color: grey;
+      color: gold;
+      text-shadow: 2px 2px grey;
+}
+
+#tp {
+    background-color: lightgrey;
+    padding: 50px;
+}
+
+#tp12 {
+    background-color: dimgrey;
+    padding: 50px;
+}
+
+#yg {
+     background-color: gold;
+}
+
+#gy {
+     background-color: grey;
+
+}
+
+
+#topic2 {
+      background-color: firebrick;
+      color: gold;
+}
+
+#tp2 {
+    background-color: hsla(0, 100%, 30%, 0.3);
+    padding: 50px;
+}
+
+
+#tp22 {
+    background-color: indianred;
+    padding: 50px;
+}
+
+#rad {
+    background-color: firebrick;
+}
+/* ขนาดตัวอักษร*/
+
+h1 {
+
+    text-shadow: 10px 10px grey;
+    color: floralwhite;
+}
+
+h4 {
+    font-size: 15px;
+
+}
+
+p {
+    color: white;
+}
