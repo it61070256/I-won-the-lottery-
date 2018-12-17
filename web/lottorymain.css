@@ -170,6 +170,14 @@ h1 {
     color: floralwhite;
 }
 
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+}
 h4 {
     font-size: 20px;
     color: firebrick;
@@ -180,9 +188,9 @@ h4 {
 h5 {
     font-size: 15px;
 }
-}
 
-}
+
+
 
 p {
     color: white;
