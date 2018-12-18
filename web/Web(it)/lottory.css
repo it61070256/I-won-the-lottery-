@@ -1,0 +1,319 @@
+#head {
+    color: black ;
+    text-shadow: 10px 10px white;
+    font-size: 150px ;
+    font-family: 'Kanit', 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+
+
+}
+#had {
+    border: 50px grey;
+    background-color: #B0C4DE;
+
+    }
+
+#sl {
+    width:50%;
+    color: black;
+}
+
+#sliding {
+    font-size: 25px ;
+    font-family: 'Kanit', 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#table {
+    width:75%;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+}
+
+#wh {
+    background-color: lightpink;
+    color: black;
+}
+#da {
+    background-color: lightskyblue;
+    font-family: 'Kanit', 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+#bu {
+    background-color:   #00BFFF;
+    font-family: 'Kanit', 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#ba {
+    background-color:   #6495ED;
+    font-family: 'Kanit', 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#bb {
+    background-color: #0000FF;
+}
+#ga {
+    background-color: #EE82EE;
+    color: white;
+
+}
+
+#tik {
+    width:75%
+}
+
+
+/* body */
+
+div.pic img{
+  height: 400px;
+  align-items: center;
+}
+#ttab {
+    background-color: yellowgreen;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+
+
+#topic {
+      background-color: silver;
+      color: black;
+      text-shadow: 2px 2px white;
+}
+
+#tp {
+    background-color: lightgrey;
+    padding: 50px;
+}
+#tps {
+    background-color: #ffe6ff;
+    padding: 50px;
+}
+
+#tpf {
+    background-color: #ffccb3;
+    padding: 50px;
+}
+
+
+#tp11 {
+    background-color: mediumaquamarine;
+    color: black;
+}
+
+
+#tp12 {
+    background-color: dimgrey;
+}
+
+#yg {
+     background-color: gold;
+}
+
+#gy {
+     background-color: #282828;
+
+}
+
+#gs {
+    background-color: #B8B8B8;
+}
+
+#ps {
+    background-color: #ffcce6;
+}
+
+#pf {
+    background-color: #ff99ff;
+}
+
+
+#gf {
+    background-color: gainsboro;
+}
+
+#gs {
+    background-color: gray;
+}
+
+#grf {
+    background-color: forestgreen;
+}
+
+#grs {
+    background-color: lightgreen;
+}
+
+#os {
+    background-color: #ffd699;
+}
+
+#of {
+    background-color: #ffad33;
+}
+
+#pps {
+    background-color: #e6ccff;
+}
+
+#ppf {
+    background-color: #b566ff;
+}
+
+
+#topic2 {
+      background-color: firebrick;
+      color: gold;
+}
+
+#tp2 {
+    background-color: hsla(0, 100%, 30%, 0.3);
+}
+
+
+#tp22 {
+    background-color: indianred;
+}
+
+#rad {
+    background-color: firebrick;
+}
+
+
+#topic3 {
+      background-color: gold;
+      color: firebrick;
+}
+
+#tp3 {
+    background-color: #FFFF66;
+}
+
+#tp32 {
+    background-color: #5500ff;
+
+}
+
+
+#tp33 {
+    background-color: #ff6600;
+
+}
+
+div.team {
+    background-color: #b3e6ff;
+}
+
+#team{
+background-color: #b3e6ff;
+}
+
+#taa {
+    color: black;
+    text-shadow: 3px 3px grey;
+}
+
+#name {
+        color: black;
+    background-color: white;
+}
+
+
+
+#two {
+      background-color: darkgray;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#two2 {
+      background-color: #ff99cc;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#two3 {
+      background-color: #ff8000;
+      color: white;
+      text-shadow: 3px 3px grey;
+}
+
+#topicred {
+      background-color: #ffb3e6;
+      color: black;
+      text-shadow: 2px 2px white;
+}
+
+
+#tp22 {
+    background-color: pink;
+    padding: 50px;
+}
+
+
+
+#topicpu {
+      background-color: #9966ff;
+      text-shadow: 2px 2px gray;
+      color: black;
+}
+
+#topicyel {
+      background-color: #ffb366;
+      text-shadow: 2px 2px white;
+      color: black;
+}
+
+
+
+#name1 {
+    color: black;
+     background-color: lightgrey ;
+}
+
+
+#Synopsis {
+    background-color: white;
+}
+
+
+
+/*รูปแบบตัวอักษร*/
+
+
+
+/* ขนาดตัวอักษร*/
+
+h1 {
+
+    text-shadow: 10px 10px grey;
+    color: floralwhite;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+
+}
+h4 {
+    font-size: 20px;
+    color: firebrick;
+    text-shadow: 3px 3px white;
+}
+
+
+h5 {
+    font-size: 15px;
+}
+
+
+
+
+p {
+    color: white;
+}
