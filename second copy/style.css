@@ -1,0 +1,229 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+::-webkit-scrollbar { display: none; }
+.header {
+    height:100vh;
+    width: auto;
+    background-image: url(./ATF/ATFheader.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+
+}
+
+#red {
+    height:100vh;
+    width: auto;
+    background-color: red;
+}
+.aleft{
+    max-width: 100%;
+    position: absolute;
+    bottom: -13vh;
+    left: 6vw;
+    animation-name: lr;
+    animation-duration: 1s;
+}
+.aright{
+    max-width: 100%;
+    position: absolute;
+    bottom: -12vh;
+    right: 11vw;
+    animation-name: rl;
+    animation-duration: 1s;
+}
+.krung{
+    font-family: 'Chakra Petch';
+    font-size: 36pt;
+    font-weight: 550;
+    color: #fff;
+    position: absolute; 
+    bottom: 30px; 
+    left: 0; 
+    width: 100%; 
+    text-align: center;
+}
+#black {
+    background-color: black;
+    height: 300vh;
+    width: auto;
+}
+.second{
+    height:100vh;
+    width: auto;
+    background-image: url(./รอแล้วได้อะไร/wait.svg);
+    background-repeat: no-repeat;
+    background-position:right center;
+    position: relative;
+}
+.topic{
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-size: 116pt;
+    font-weight: 700;
+    color: #ffff00;
+    position: absolute;
+    left: 0;
+    top: 110%;
+    width: 100%;
+}
+.wait{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    left: 15%;
+    top: 130%;
+    z-index: 2;
+}
+.really{
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-size: 155pt;
+    font-weight: 700;
+    color:#fff;
+    position: absolute;
+    left: 0;
+    top: 300%;
+    width: 100%;
+}
+
+.scrolling-box {
+    background-color: #000000;
+    display: block;
+    width: 13.3%;
+    height: 44.5%;
+    padding: 5px;
+    overflow: auto;
+    text-align: center;
+    position: absolute;
+    top:157%;
+    left:43.168%;
+    z-index: 3;
+}
+.msgcard {
+    box-shadow: 0 0px 25px rgba(0, 0, 0, .2);
+}
+
+.chat-log {
+    overflow: auto;
+    height: calc(75vh);
+}
+
+.chat-log_item {
+    background: #ffffff;
+    padding: 10px;
+    margin: 0 auto 10px;
+    max-width: 95%;
+    min-width: 25%;
+    float: left;
+    font-family: 'Chakra Petch';
+    font-size: 16px;
+    border-radius: 0 20px 20px 20px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+    clear: both;
+}
+
+.chat-log_item.chat-log_item-own {
+    font-family: 'Chakra Petch';
+    font-size: 16px;
+    float: right;
+    background: #ffffff;
+    text-align: right;
+    margin-right: 0rem;
+    border-radius: 20px 0 20px 20px;
+}
+
+.chat-form {
+    background: #ffffff;
+    padding: 40px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.chat-log_author {
+    margin: 0 auto 0em;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.chat-log_time {
+    margin: 0 auto .5em;
+    direction: rtl;
+    font-size: 12px;
+    opacity: 0.5;
+}
+/* .boxr1{
+    position: absolute;
+    top:-4%;
+    right: -10%;
+}
+.boxl1{
+    position: absolute;
+    top:9%;
+    left: -20%;
+}
+.boxr2{
+    position: absolute;
+    top:22%;
+    right: -10%;
+}
+.boxl2{
+    position: absolute;
+    top:35%;
+    left: -20%;
+}
+.boxr3{
+    position: absolute;
+    top:48%;
+    right: -10%;
+}
+.boxl3{
+    position: absolute;
+    top:61%;
+    left: -20%;
+}
+.boxr4{
+    position: absolute;
+    top:74%;
+    right: -10%;
+}
+.boxl4{
+    position: absolute;
+    top:87%;
+    left: -20%;
+}
+.boxr5{
+    position: absolute;
+    top:100%;
+    right: -10%;
+}
+.boxl5{
+    position: absolute;
+    top:113%;
+    left: -20%;
+}
+.boxr6{
+    position: absolute;
+    top:126%;
+    right: -10%;
+}
+.boxl6{
+    position: absolute;
+    top:139%;
+    left: -20%;
+} */
+
+
+
+@keyframes lr {
+    0%   {opacity:0;left:-20vw; bottom:-13vh;}
+    100% {opacity:1;left:6vw; bottom:-13vh;}
+  }
+
+@keyframes rl {
+    0%   {opacity:0;right:-10vw; bottom:-12vh;}
+    100% {opacity:1;right:11vw; bottom:-12vh;}
+  }
